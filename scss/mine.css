@@ -1,0 +1,1778 @@
+@font-face {
+  font-family: fa-font;
+  src: url(../fonts/IRANSansDN.ttf);
+  src: url(../fonts/IRANSansDN.woff);
+  src: url(../fonts/iransansdn.woff2);
+}
+@media (min-width: 1400px) {
+  .navbar {
+    display: none;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat-solid-first {
+    font-size: 25px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat-solid-first1 {
+    font-size: 25px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .buy-now-1 {
+    width: 60% !important;
+  }
+  .navbar {
+    display: none;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat-solid-first {
+    font-size: 18px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat-solid-first1 {
+    font-size: 18px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .buy-now-1 {
+    width: 80% !important;
+  }
+  .main2 > .Customer-Review > .paragraf-for-Customer-Review {
+    white-space: nowrap;
+    width: 15% !important;
+    font-size: 20px !important;
+  }
+  .main2 > .container > .boxs-Customer-Review {
+    flex-direction: column;
+    align-items: center;
+    gap: 5rem;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu {
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .image1-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .image1-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .image2-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .image2-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .image3-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .image3-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu {
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .image4-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .image4-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .image5-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .image5-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .image6-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .image6-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat {
+    margin-top: 10rem;
+    height: 70% !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 {
+    margin-top: 10rem;
+    height: 70% !important;
+  }
+  .navbar {
+    display: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat-solid-first {
+    font-size: 18px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat-solid-first1 {
+    font-size: 18px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .buy-now-1 {
+    width: 60% !important;
+    height: 28% !important;
+    font-size: 10px !important;
+  }
+  .main2 > .Customer-Review > .paragraf-for-Customer-Review {
+    white-space: nowrap;
+    width: 15% !important;
+    font-size: 20px !important;
+  }
+  .main2 > .container > .boxs-Customer-Review {
+    flex-direction: column;
+    align-items: center;
+    gap: 5rem;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu {
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .image1-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .image1-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .image2-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .image2-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .image3-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .image3-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu {
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .image4-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .image4-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .image5-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .image5-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .image6-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .image6-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat {
+    margin-top: 10rem;
+    height: 70% !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 {
+    margin-top: 10rem;
+    height: 70% !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .Description-first-The-first-vase {
+    font-size: 14px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .Description-2-The-first-vase {
+    font-size: 14px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant {
+    height: 350px !important;
+    transform: translateY(9rem);
+  }
+  .main1 > .container > .comment-customer > .box-comment-customer {
+    transform: translateY(-28rem) !important;
+  }
+  .main1 > .container > .comment-customer > .box-comment-customer > p {
+    font-size: 14px !important;
+  }
+  .main1 > .container > .Our-Trendy-plants > .desciption-Our-Trendy-plants {
+    font-size: 40px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat-solid-first1 {
+    font-size: 15px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat-solid-first {
+    font-size: 15px !important;
+  }
+  footer > .parent-footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 5rem;
+  }
+  footer > .parent-footer > .child-1-for-footer {
+    width: 50% !important;
+  }
+  footer > .parent-footer > .child-2-for-footer {
+    width: 50% !important;
+    text-align: center;
+    justify-content: center;
+  }
+  footer > .parent-footer > .child-3-for-footer {
+    gap: 3rem;
+    height: 30% !important;
+  }
+  .main1 > .for-header > header > .header-main > .menu-for-header-main {
+    display: none;
+  }
+}
+@media (min-width: 540px) and (max-width: 768px) {
+  .main1 > .container > .For-Small-Decs-Ai-Plat {
+    height: 400px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat {
+    gap: 1rem !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat > .explore-1 {
+    font-size: 10px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat > .btn-buy-For-Small-Decs-Ai-Plat {
+    padding: 0 !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat-solid-first {
+    font-size: 18px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 {
+    height: 400px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 {
+    gap: 1rem !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .The-price-of-the-first-item1 {
+    font-size: 15px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat1 > .explore-2 {
+    font-size: 10px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat1 > .btn-buy-For-Small-Decs-Ai-Plat1 {
+    padding: 0 !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat-solid-first1 {
+    font-size: 18px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .buy-now-1 {
+    width: 60% !important;
+    height: 28% !important;
+    font-size: 6px !important;
+  }
+  .main2 > .Customer-Review > .paragraf-for-Customer-Review {
+    white-space: nowrap;
+    width: 26% !important;
+    font-size: 20px !important;
+    margin-top: 10rem;
+  }
+  .main2 > .container > .boxs-Customer-Review {
+    flex-direction: column;
+    align-items: center;
+    gap: 5rem;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu {
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .image1-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .image1-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .image2-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .image2-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .image3-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .image3-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu {
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .image4-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .image4-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .image5-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .image5-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .image6-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .image6-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat {
+    margin-top: 10rem;
+    height: 70% !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 {
+    margin-top: 10rem;
+    height: 70% !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .Description-first-The-first-vase {
+    font-size: 14px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .Description-2-The-first-vase {
+    font-size: 14px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .swiper-for-Trendy-House-Plant swiper-container {
+    transform: translateY(-3rem) !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant {
+    height: 250px !important;
+    transform: translateY(9rem);
+  }
+  .main1 > .container > .comment-customer > .box-comment-customer {
+    transform: translateY(-28rem) !important;
+  }
+  .main1 > .container > .comment-customer > .box-comment-customer > p {
+    font-size: 13px !important;
+    text-align: justify;
+  }
+  .main1 > .container > .Our-Trendy-plants > .desciption-Our-Trendy-plants {
+    font-size: 40px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat-solid-first1 {
+    font-size: 11px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat-solid-first {
+    font-size: 11px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .The-price-of-the-first-item {
+    font-size: 15px !important;
+  }
+  footer > .parent-footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 5rem;
+  }
+  footer > .parent-footer > .child-1-for-footer {
+    width: 50% !important;
+  }
+  footer > .parent-footer > .child-2-for-footer {
+    width: 50% !important;
+    text-align: center;
+    justify-content: center;
+  }
+  footer > .parent-footer > .child-3-for-footer {
+    gap: 3rem;
+    height: 30% !important;
+  }
+  .main1 > .container > .title-main > .parent-titles > .heading-primary-main {
+    font-size: 50px !important;
+  }
+  .main1 > .container > .title-main > .parent-titles > .heading-primary-sub {
+    font-size: 16px !important;
+  }
+  .main1 > .container > .title-main > .parent-titles > .heading-primary-sub > .btn-explore {
+    font-size: 10px !important;
+    height: 16% !important;
+    padding: 1px !important;
+  }
+  .main1 > .container > .title-main > .parent-titles > .heading-primary-sub > .Icon-phrase-live-demo {
+    width: 25px !important;
+    height: 25px !important;
+  }
+  .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review > .discriptin-img-and-discraption-for-box1 > p {
+    font-size: 12px !important;
+  }
+  .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review > .discriptin-img-and-discraption-for-box2 > p {
+    font-size: 12px !important;
+  }
+  .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review > .discriptin-img-and-discraption-for-box3 > p {
+    font-size: 12px !important;
+  }
+  .main2 > .container > .box-for-swipper-end swiper-slide > .disciptsin-for-box-for-swipper-end-slide1 > .paragraph-for-slide1 {
+    font-size: 10px !important;
+  }
+  .main2 > .container > .box-for-swipper-end swiper-slide > .disciptsin-for-box-for-swipper-end-slide1 > .parent-button-for-slide1 > .button-for-slide1 {
+    width: 20% !important;
+    padding: 1px !important;
+    font-size: 10px !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .description-for-image6-for-box1-for-sale-menu > .parent-button-for-box6 {
+    width: 87% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .description-for-image5-for-box1-for-sale-menu > .parent-button-for-box5 {
+    width: 87% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .description-for-image4-for-box1-for-sale-menu > .parent-button-for-box4 {
+    width: 87% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .description-for-image1-for-box1-for-sale-menu > .parent-button-for-box1 {
+    width: 87% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .description-for-image2-for-box1-for-sale-menu > .parent-button-for-box2 {
+    width: 87% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .description-for-image3-for-box1-for-sale-menu > .parent-button-for-box3 {
+    width: 87% !important;
+  }
+  .main1 > .for-header > header > .header-main > .menu-for-header-main {
+    display: none;
+  }
+  .navbar > .menu2 > a {
+    font-size: 10px;
+  }
+}
+@media (max-width: 540px) {
+  .main1 > .container > .For-Small-Decs-Ai-Plat {
+    height: 400px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat {
+    gap: 1rem !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat > .explore-1 {
+    font-size: 10px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat > .btn-buy-For-Small-Decs-Ai-Plat {
+    padding: 0 !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat-solid-first {
+    font-size: 18px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 {
+    height: 400px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 {
+    gap: 1rem !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .The-price-of-the-first-item1 {
+    font-size: 15px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat1 > .explore-2 {
+    font-size: 10px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat1 > .btn-buy-For-Small-Decs-Ai-Plat1 {
+    padding: 0 !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat-solid-first1 {
+    font-size: 18px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .buy-now-1 {
+    width: 60% !important;
+    height: 28% !important;
+    font-size: 6px !important;
+  }
+  .main2 > .Customer-Review > .paragraf-for-Customer-Review {
+    white-space: nowrap;
+    width: 26% !important;
+    font-size: 20px !important;
+    margin-top: 10rem;
+  }
+  .main2 > .container > .boxs-Customer-Review {
+    flex-direction: column;
+    align-items: center;
+    gap: 5rem;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu {
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .image1-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .image1-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .image2-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .image2-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .image3-for-box1-for-sale-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .image3-for-box1-for-sale-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu {
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .image4-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .image4-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .image5-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .image5-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu {
+    width: 50% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .image6-for-Row-Second-of-menu {
+    height: 60%;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .image6-for-Row-Second-of-menu > img {
+    height: 100% !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat {
+    margin-top: 10rem;
+    height: 70% !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 {
+    margin-top: 10rem;
+    height: 70% !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .Description-first-The-first-vase {
+    font-size: 14px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .Description-2-The-first-vase {
+    font-size: 14px !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .swiper-for-Trendy-House-Plant swiper-container {
+    transform: translateY(-3rem) !important;
+  }
+  .main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant {
+    height: 250px !important;
+    transform: translateY(9rem);
+  }
+  .main1 > .container > .comment-customer > .box-comment-customer {
+    transform: translateY(-28rem) !important;
+  }
+  .main1 > .container > .comment-customer > .box-comment-customer > p {
+    font-size: 13px !important;
+    text-align: justify;
+  }
+  .main1 > .container > .Our-Trendy-plants > .desciption-Our-Trendy-plants {
+    font-size: 40px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat-solid-first1 {
+    font-size: 11px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat-solid-first {
+    font-size: 11px !important;
+  }
+  .main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .The-price-of-the-first-item {
+    font-size: 15px !important;
+  }
+  footer > .parent-footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 5rem;
+  }
+  footer > .parent-footer > .child-1-for-footer {
+    width: 50% !important;
+  }
+  footer > .parent-footer > .child-2-for-footer {
+    width: 50% !important;
+    text-align: center;
+    justify-content: center;
+  }
+  footer > .parent-footer > .child-3-for-footer {
+    gap: 3rem;
+    height: 30% !important;
+  }
+  .main1 > .container > .title-main > .parent-titles > .heading-primary-main {
+    font-size: 50px !important;
+  }
+  .main1 > .container > .title-main > .parent-titles > .heading-primary-sub {
+    font-size: 16px !important;
+  }
+  .main1 > .container > .title-main > .parent-titles > .heading-primary-sub > .btn-explore {
+    font-size: 10px !important;
+    height: 16% !important;
+    padding: 1px !important;
+  }
+  .main1 > .container > .title-main > .parent-titles > .heading-primary-sub > .Icon-phrase-live-demo {
+    width: 25px !important;
+    height: 25px !important;
+  }
+  .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review > .discriptin-img-and-discraption-for-box1 > p {
+    font-size: 12px !important;
+  }
+  .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review > .discriptin-img-and-discraption-for-box2 > p {
+    font-size: 12px !important;
+  }
+  .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review > .discriptin-img-and-discraption-for-box3 > p {
+    font-size: 12px !important;
+  }
+  .main2 > .container > .box-for-swipper-end swiper-slide > .disciptsin-for-box-for-swipper-end-slide1 > .paragraph-for-slide1 {
+    font-size: 10px !important;
+  }
+  .main2 > .container > .box-for-swipper-end swiper-slide > .disciptsin-for-box-for-swipper-end-slide1 > .parent-button-for-slide1 > .button-for-slide1 {
+    width: 20% !important;
+    padding: 1px !important;
+    font-size: 10px !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .description-for-image6-for-box1-for-sale-menu > .parent-button-for-box6 {
+    width: 87% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .description-for-image5-for-box1-for-sale-menu > .parent-button-for-box5 {
+    width: 87% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .description-for-image4-for-box1-for-sale-menu > .parent-button-for-box4 {
+    width: 87% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .description-for-image1-for-box1-for-sale-menu > .parent-button-for-box1 {
+    width: 87% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .description-for-image2-for-box1-for-sale-menu > .parent-button-for-box2 {
+    width: 87% !important;
+  }
+  .main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .description-for-image3-for-box1-for-sale-menu > .parent-button-for-box3 {
+    width: 87% !important;
+  }
+  .main1 > .for-header > header > .header-main > .menu-for-header-main {
+    display: none;
+  }
+  .navbar > .menu2 > a {
+    font-size: 8px;
+  }
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 17px;
+  color: #fff;
+  font-family: fa-font;
+  background-color: rgb(24, 33, 24);
+}
+
+.main1 {
+  background-image: url(../img/mine-img.png);
+  background-position: top;
+  background-size: cover;
+}
+.main1 > .for-header {
+  width: 100%;
+  height: 100px;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+.main1 > .for-header > header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.main1 > .for-header > header > .header-main {
+  margin-top: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.main1 > .for-header > header > .header-main .icon-plant {
+  display: flex;
+  align-items: center;
+  width: 4.688rem;
+  height: 4.688rem;
+}
+.main1 > .for-header > header > .header-main .icon-plant .img-icon-plant {
+  width: 100%;
+  height: 100%;
+}
+.main1 > .for-header > header > .header-main .icon-plant > .Description-for-img-icon-plant {
+  font-size: 30px;
+}
+.main1 > .for-header > header > .header-main > .menu-for-header-main > .nav > .nav-item > .nav-link {
+  color: #fff;
+}
+.main1 > .for-header > header > .header-main > .shortcuts-for-header {
+  width: 8rem;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.main1 > .for-header > header > .header-main > .shortcuts-for-header > .img3-shortcuts-for-header {
+  width: 30%;
+  height: 25%;
+}
+.main1 > .for-header > header > .header-main > .shortcuts-for-header > img {
+  transition: 300ms;
+  width: 20%;
+}
+.main1 > .for-header > header > .header-main > .shortcuts-for-header > img:hover {
+  transform: scale(1.7);
+}
+.main1 > .container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+.main1 > .container > .title-main {
+  display: flex;
+  flex-direction: column;
+  width: 65%;
+  gap: 15px;
+  margin-top: 10%;
+}
+.main1 > .container > .title-main > .parent-titles {
+  display: flex;
+  flex-wrap: wrap;
+}
+.main1 > .container > .title-main > .parent-titles > .heading-primary-main {
+  font-size: 100px;
+  white-space: nowrap;
+}
+.main1 > .container > .title-main > .parent-titles > .heading-primary-sub {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-size: 28px;
+  text-align: justify;
+}
+.main1 > .container > .title-main > .parent-titles > .heading-primary-sub > .btn-explore {
+  width: 13%;
+  background: none;
+  color: #fff;
+  padding: 10px;
+  border: 2px solid #fff;
+  font-family: fa-font;
+  border-radius: 15px;
+  font-size: 18px;
+}
+.main1 > .container > .title-main > .parent-titles > .heading-primary-sub > .btn-explore:hover {
+  transform: scale(1.1);
+}
+.main1 > .container > .title-main > .parent-titles > .heading-primary-sub > .Icon-phrase-live-demo {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  transition: 500ms;
+  gap: 1rem;
+}
+.main1 > .container > .title-main > .parent-titles > .heading-primary-sub > .Icon-phrase-live-demo > img {
+  cursor: pointer;
+}
+.main1 > .container > .title-main > .parent-titles > .heading-primary-sub > .Icon-phrase-live-demo > img:hover {
+  transform: scale(1.1);
+}
+.main1 > .container > .title-main > .parent-titles > .heading-primary-sub > .Icon-phrase-live-demo > span {
+  white-space: nowrap;
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant {
+  display: flex;
+  justify-content: end;
+  height: 550px;
+  width: 100%;
+  transform: translateY(-20rem);
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant {
+  width: 28%;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .swiper-for-Trendy-House-Plant {
+  width: 110%;
+  height: 50%;
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .swiper-for-Trendy-House-Plant swiper-container {
+  width: 100%;
+  height: 130%;
+  transform: translateY(-8rem);
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .swiper-for-Trendy-House-Plant swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .swiper-for-Trendy-House-Plant swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  margin-bottom: 2.5rem;
+  text-align: center;
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 73%;
+  padding: 15px;
+  justify-content: center;
+  margin-bottom: 5rem;
+  text-align: center;
+  align-items: center;
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .Description-first-The-first-vase {
+  font-size: 29px;
+  white-space: nowrap;
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .Description-2-The-first-vase {
+  font-size: 57px;
+  white-space: nowrap;
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .buy-now-1 {
+  width: 47%;
+  background: none;
+  border: 2px solid #fff;
+  font-family: fa-font;
+  color: #fff;
+  height: 3rem;
+  border-radius: 20px;
+  transition: 500ms;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.main1 > .container > .parent-box-for-Trendy-House-Plant > .box-for-Trendy-House-Plant > .Description-for-swiper-for-that-Trendy-House-Plant > .buy-now-1:hover {
+  transform: scale(1.4);
+}
+.main1 > .container > .comment-customer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.main1 > .container > .comment-customer > .box-comment-customer {
+  width: 25%;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  padding: 25px;
+  gap: 2rem;
+  align-items: end;
+  transform: translateY(-21rem);
+}
+.main1 > .container > .Our-Trendy-plants {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.main1 > .container > .Our-Trendy-plants > .desciption-Our-Trendy-plants {
+  font-size: 60px;
+  border-bottom: 2px solid #f2e8c6;
+  transform: translateY(-25rem);
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat {
+  width: 100%;
+  height: 550px;
+  transform: translateY(-21rem);
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat {
+  width: 100%;
+  height: 100%;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+  display: flex;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .img-For-Small-Decs-Ai-Plat {
+  width: 41%;
+  height: 138%;
+  display: flex;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .img-For-Small-Decs-Ai-Plat > .child-img-For-Small-Decs-Ai-Plat {
+  transform: translateY(-11rem);
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat {
+  width: 56%;
+  height: 100%;
+  justify-content: center;
+  gap: 2.5rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat-solid-first {
+  font-size: 28px;
+  white-space: nowrap;
+  width: inherit;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat-solid-Second {
+  font-size: 16px;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .btn-buy-For-Small-Decs-Ai-Plat {
+  width: 50px;
+  height: 50px;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat > .explore-1 {
+  width: 27%;
+  background: none;
+  color: #fff;
+  font-family: fa-font;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  transition: 350ms;
+  margin-right: 10%;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat > .explore-1:hover {
+  transform: scale(1.3);
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat > .btn-buy-For-Small-Decs-Ai-Plat {
+  background: none;
+  border: solid 2px #fff;
+  border-radius: 10px;
+  padding: 5px;
+  transition: 350ms;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat > .btn-buy-For-Small-Decs-Ai-Plat:hover {
+  transform: scale(1.3);
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat > .box-For-Small-Decs-Ai-Plat > .description-For-Small-Decs-Ai-Plat > .The-price-of-the-first-item {
+  font-size: 40px;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 {
+  transform: translateY(-21rem);
+  width: 100%;
+  margin-top: 5%;
+  height: 550px;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 {
+  width: 100%;
+  height: 100%;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+  display: flex;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .img-For-Small-Decs-Ai-Plat1 {
+  width: 41%;
+  height: 138%;
+  display: flex;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .img-For-Small-Decs-Ai-Plat1 > .child-img-For-Small-Decs-Ai-Plat1 {
+  transform: translateY(-11rem);
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 {
+  width: 56%;
+  height: 100%;
+  justify-content: center;
+  gap: 2.5rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat-solid-first1 {
+  font-size: 28px;
+  white-space: nowrap;
+  width: inherit;
+  margin-right: 10%;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat-solid-Second1 {
+  font-size: 16px;
+  margin-right: 15%;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .btn-buy-For-Small-Decs-Ai-Plat1 {
+  width: 50px;
+  height: 50px;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat1 > .explore-2 {
+  width: 27%;
+  background: none;
+  color: #fff;
+  font-family: fa-font;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  transition: 350ms;
+  margin-right: 10%;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat1 > .explore-2:hover {
+  transform: scale(1.3);
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat1 > .btn-buy-For-Small-Decs-Ai-Plat1 {
+  background: none;
+  border: solid 2px #fff;
+  border-radius: 10px;
+  padding: 5px;
+  transition: 350ms;
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .parenr-explore-1-and-btn-buy-For-Small-Decs-Ai-Plat1 > .btn-buy-For-Small-Decs-Ai-Plat1:hover {
+  transform: scale(1.3);
+}
+.main1 > .container > .For-Small-Decs-Ai-Plat1 > .box-For-Small-Decs-Ai-Plat1 > .description-For-Small-Decs-Ai-Plat1 > .The-price-of-the-first-item1 {
+  font-size: 40px;
+}
+
+.main2 > .big-menu {
+  padding-top: 10rem;
+  width: 100%;
+  display: flex;
+}
+.main2 > .big-menu > .sale-menu {
+  width: 100%;
+  height: 100%;
+  gap: 10rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu {
+  align-items: start;
+  width: 25%;
+  height: 37.5rem;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .image1-for-box1-for-sale-menu {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .image1-for-box1-for-sale-menu > img {
+  width: 80%;
+  height: 70%;
+  transform: translateY(-8rem);
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .description-for-image1-for-box1-for-sale-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 80%;
+  justify-content: center;
+  transform: translateX(-3rem);
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .description-for-image1-for-box1-for-sale-menu > .name-plant-for-box1 {
+  font-size: 3rem;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .description-for-image1-for-box1-for-sale-menu > .parent-button-for-box1 {
+  display: flex;
+  justify-content: space-between;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .description-for-image1-for-box1-for-sale-menu > .parent-button-for-box1 > .button-for-box1 {
+  width: 50px;
+  height: 50px;
+  background: none;
+  border: 2px solid #fff;
+  border-radius: 15px;
+  padding: 8px;
+  transition: 350ms;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .description-for-image1-for-box1-for-sale-menu > .parent-button-for-box1 > .button-for-box1:hover {
+  transform: scale(1.3);
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box1-for-sale-menu > .description-for-image1-for-box1-for-sale-menu > .parent-button-for-box1 > .button-for-box1 > img {
+  width: 100%;
+  height: 100%;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu {
+  width: 25%;
+  height: 37.5rem;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .image2-for-box1-for-sale-menu {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .image2-for-box1-for-sale-menu > img {
+  width: 80%;
+  height: 70%;
+  transform: translateY(-8rem);
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .description-for-image2-for-box1-for-sale-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 80%;
+  justify-content: center;
+  transform: translateX(-3rem);
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .description-for-image2-for-box1-for-sale-menu > .name-plant-for-box2 {
+  font-size: 3rem;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .description-for-image2-for-box1-for-sale-menu > .parent-button-for-box2 {
+  display: flex;
+  justify-content: space-between;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .description-for-image2-for-box1-for-sale-menu > .parent-button-for-box2 > .button-for-box2 {
+  width: 50px;
+  height: 50px;
+  background: none;
+  border: 2px solid #fff;
+  border-radius: 15px;
+  padding: 8px;
+  transition: 350ms;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .description-for-image2-for-box1-for-sale-menu > .parent-button-for-box2 > .button-for-box2:hover {
+  transform: scale(1.3);
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box2-for-sale-menu > .description-for-image2-for-box1-for-sale-menu > .parent-button-for-box2 > .button-for-box2 > img {
+  width: 100%;
+  height: 100%;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu {
+  width: 25%;
+  height: 37.5rem;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .image3-for-box1-for-sale-menu {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .image3-for-box1-for-sale-menu > img {
+  width: 80%;
+  height: 70%;
+  transform: translateY(-10rem);
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .description-for-image3-for-box1-for-sale-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 80%;
+  justify-content: center;
+  transform: translateX(-3rem);
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .description-for-image3-for-box1-for-sale-menu > .name-plant-for-box3 {
+  font-size: 3rem;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .description-for-image3-for-box1-for-sale-menu > .parent-button-for-box3 {
+  display: flex;
+  justify-content: space-between;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .description-for-image3-for-box1-for-sale-menu > .parent-button-for-box3 > .button-for-box3 {
+  width: 50px;
+  height: 50px;
+  background: none;
+  border: 2px solid #fff;
+  border-radius: 15px;
+  padding: 8px;
+  transition: 350ms;
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .description-for-image3-for-box1-for-sale-menu > .parent-button-for-box3 > .button-for-box3:hover {
+  transform: scale(1.3);
+}
+.main2 > .big-menu > .sale-menu > .row-frist-of-menu > .box3-for-sale-menu > .description-for-image3-for-box1-for-sale-menu > .parent-button-for-box3 > .button-for-box3 > img {
+  width: 100%;
+  height: 100%;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu {
+  width: 25%;
+  height: 37.5rem;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .image4-for-Row-Second-of-menu {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .image4-for-Row-Second-of-menu > img {
+  width: 80%;
+  height: 70%;
+  transform: translateY(-8rem);
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .description-for-image4-for-box1-for-sale-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 80%;
+  justify-content: center;
+  transform: translateX(-3rem);
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .description-for-image4-for-box1-for-sale-menu > .name-plant-for-box4 {
+  font-size: 3rem;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .description-for-image4-for-box1-for-sale-menu > .parent-button-for-box4 {
+  display: flex;
+  justify-content: space-between;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .description-for-image4-for-box1-for-sale-menu > .parent-button-for-box4 > .button-for-box4 {
+  width: 50px;
+  height: 50px;
+  background: none;
+  border: 2px solid #fff;
+  border-radius: 15px;
+  padding: 8px;
+  transition: 350ms;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .description-for-image4-for-box1-for-sale-menu > .parent-button-for-box4 > .button-for-box4:hover {
+  transform: scale(1.3);
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box4-for-sale-menu > .description-for-image4-for-box1-for-sale-menu > .parent-button-for-box4 > .button-for-box4 > img {
+  width: 100%;
+  height: 100%;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu {
+  width: 25%;
+  height: 37.5rem;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .image5-for-Row-Second-of-menu {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .image5-for-Row-Second-of-menu > img {
+  width: 80%;
+  height: 70%;
+  transform: translateY(-8rem);
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .description-for-image5-for-box1-for-sale-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 80%;
+  justify-content: center;
+  transform: translateX(-3rem);
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .description-for-image5-for-box1-for-sale-menu > .name-plant-for-box5 {
+  font-size: 3rem;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .description-for-image5-for-box1-for-sale-menu > .parent-button-for-box5 {
+  display: flex;
+  justify-content: space-between;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .description-for-image5-for-box1-for-sale-menu > .parent-button-for-box5 > .button-for-box5 {
+  width: 50px;
+  height: 50px;
+  background: none;
+  border: 2px solid #fff;
+  border-radius: 15px;
+  padding: 8px;
+  transition: 350ms;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .description-for-image5-for-box1-for-sale-menu > .parent-button-for-box5 > .button-for-box5:hover {
+  transform: scale(1.3);
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box5-for-sale-menu > .description-for-image5-for-box1-for-sale-menu > .parent-button-for-box5 > .button-for-box5 > img {
+  width: 100%;
+  height: 100%;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu {
+  width: 25%;
+  height: 37.5rem;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .image6-for-Row-Second-of-menu {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .image6-for-Row-Second-of-menu > img {
+  width: 80%;
+  height: 70%;
+  transform: translateY(-8rem);
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .description-for-image6-for-box1-for-sale-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 80%;
+  justify-content: center;
+  transform: translateX(-3rem);
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .description-for-image6-for-box1-for-sale-menu > .name-plant-for-box6 {
+  font-size: 3rem;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .description-for-image6-for-box1-for-sale-menu > .parent-button-for-box6 {
+  display: flex;
+  justify-content: space-between;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .description-for-image6-for-box1-for-sale-menu > .parent-button-for-box6 > .button-for-box6 {
+  width: 50px;
+  height: 50px;
+  background: none;
+  border: 2px solid #fff;
+  border-radius: 15px;
+  padding: 8px;
+  transition: 350ms;
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .description-for-image6-for-box1-for-sale-menu > .parent-button-for-box6 > .button-for-box6:hover {
+  transform: scale(1.3);
+}
+.main2 > .big-menu > .sale-menu > .Row-Second-of-menu > .box6-for-sale-menu > .description-for-image6-for-box1-for-sale-menu > .parent-button-for-box6 > .button-for-box6 > img {
+  width: 100%;
+  height: 100%;
+}
+.main2 > .Customer-Review {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+}
+.main2 > .Customer-Review > .paragraf-for-Customer-Review {
+  width: 18%;
+  border-bottom: 2px solid #f2e8c6;
+  padding: 10px;
+}
+.main2 > .container > .boxs-Customer-Review {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10rem;
+}
+.main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review {
+  width: 25%;
+  height: 30.5rem;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+}
+.main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review > .img-and-discraption-for-box1 {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  text-align: center;
+}
+.main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review > .img-and-discraption-for-box1 > .img-for-box1 {
+  width: 35%;
+  height: 90%;
+  border-radius: 50%;
+}
+.main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review > .img-and-discraption-for-box1 > .span-and-icon-stars {
+  width: 60%;
+}
+.main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review > .img-and-discraption-for-box1 > .span-and-icon-stars > .icons-for-img-for-box1 {
+  width: 100%;
+}
+.main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review > .img-and-discraption-for-box1 > .span-and-icon-stars > .icons-for-img-for-box1 > img {
+  width: 10%;
+  height: inherit;
+}
+.main2 > .container > .boxs-Customer-Review > .box1-that-boxs-Customer-Review > .discriptin-img-and-discraption-for-box1 {
+  padding: 50px;
+  text-align: justify;
+  font-size: 14px;
+}
+.main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review {
+  width: 25%;
+  height: 30.5rem;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+}
+.main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review > .img-and-discraption-for-box2 {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  text-align: center;
+}
+.main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review > .img-and-discraption-for-box2 > .img-for-box2 {
+  width: 35%;
+  height: 90%;
+  border-radius: 50%;
+}
+.main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review > .img-and-discraption-for-box2 > .span-and-icon-stars2 {
+  width: 60%;
+}
+.main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review > .img-and-discraption-for-box2 > .span-and-icon-stars2 > .icons-for-img-for-box2 {
+  width: 100%;
+}
+.main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review > .img-and-discraption-for-box2 > .span-and-icon-stars2 > .icons-for-img-for-box2 > img {
+  width: 10%;
+  height: inherit;
+}
+.main2 > .container > .boxs-Customer-Review > .box2-that-boxs-Customer-Review > .discriptin-img-and-discraption-for-box2 {
+  padding: 50px;
+  text-align: justify;
+  font-size: 14px;
+}
+.main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review {
+  width: 25%;
+  height: 30.5rem;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+}
+.main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review > .img-and-discraption-for-box3 {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  text-align: center;
+}
+.main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review > .img-and-discraption-for-box3 > .img-for-box3 {
+  width: 35%;
+  height: 90%;
+  border-radius: 50%;
+}
+.main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review > .img-and-discraption-for-box3 > .span-and-icon-stars3 {
+  width: 60%;
+}
+.main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review > .img-and-discraption-for-box3 > .span-and-icon-stars3 > .icons-for-img-for-box3 {
+  width: 100%;
+}
+.main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review > .img-and-discraption-for-box3 > .span-and-icon-stars3 > .icons-for-img-for-box3 > img {
+  width: 10%;
+  height: inherit;
+}
+.main2 > .container > .boxs-Customer-Review > .box3-that-boxs-Customer-Review > .discriptin-img-and-discraption-for-box3 {
+  padding: 50px;
+  text-align: justify;
+  font-size: 14px;
+}
+.main2 > .container > .our-best {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+.main2 > .container > .our-best > .paragraph-our-best {
+  border-bottom: 2px solid #f2e8c6;
+}
+.main2 > .container > .box-for-swipper-end swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.main2 > .container > .box-for-swipper-end swiper-slide {
+  margin-top: 10rem;
+  text-align: center;
+  font-size: 18px;
+  background: rgba(229, 234, 231, 0.0431372549);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.main2 > .container > .box-for-swipper-end swiper-slide > .disciptsin-for-box-for-swipper-end-slide1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main2 > .container > .box-for-swipper-end swiper-slide > .disciptsin-for-box-for-swipper-end-slide1 > .paragraph-for-slide1 {
+  width: 70%;
+  text-align: justify;
+}
+.main2 > .container > .box-for-swipper-end swiper-slide > .disciptsin-for-box-for-swipper-end-slide1 > .parent-button-for-slide1 {
+  width: 70%;
+  display: flex;
+  justify-content: end;
+  transition: 350ms;
+}
+.main2 > .container > .box-for-swipper-end swiper-slide > .disciptsin-for-box-for-swipper-end-slide1 > .parent-button-for-slide1 > .button-for-slide1 {
+  background: none;
+  font-family: fa-font;
+  padding: 1rem;
+  border: 2px solid #fff;
+  color: #fff;
+  border-radius: 10px;
+  transition: 350ms;
+}
+.main2 > .container > .box-for-swipper-end swiper-slide > .disciptsin-for-box-for-swipper-end-slide1 > .parent-button-for-slide1 > .button-for-slide1:hover {
+  transform: scale(1.3);
+}
+.main2 > .container > .box-for-swipper-end swiper-slide img {
+  display: block;
+  width: 30%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.main2 > .container > .box-for-swipper-end swiper-container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  width: 100%;
+  padding: 5rem;
+  background-color: rgb(42, 48, 30);
+  margin-top: 10rem;
+}
+footer > .parent-footer {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  height: 100%;
+}
+footer > .parent-footer > .child-1-for-footer {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  width: 27%;
+  height: 100%;
+}
+footer > .parent-footer > .child-1-for-footer > .first-icon-for-child-1-for-footer {
+  width: 20%;
+  display: flex;
+  align-items: center;
+}
+footer > .parent-footer > .child-1-for-footer > .first-icon-for-child-1-for-footer > img {
+  width: 100%;
+}
+footer > .parent-footer > .child-1-for-footer > .first-icon-for-child-1-for-footer > span {
+  font-size: 150%;
+}
+footer > .parent-footer > .child-1-for-footer > .direction-for-child-1-for-footer {
+  width: 100%;
+}
+footer > .parent-footer > .child-1-for-footer > .direction-for-child-1-for-footer > p {
+  text-align: justify;
+}
+footer > .parent-footer > .child-2-for-footer {
+  display: flex;
+  width: 20%;
+}
+footer > .parent-footer > .child-2-for-footer > .tatle-for-Quick-Links {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+footer > .parent-footer > .child-2-for-footer > .tatle-for-Quick-Links > a {
+  text-decoration: none;
+  color: #fff;
+}
+footer > .parent-footer > .child-3-for-footer {
+  display: flex;
+  justify-content: space-around;
+}
+footer > .parent-footer > .child-3-for-footer > .direction-for-child-3-for-footer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+footer > .parent-footer > .child-3-for-footer > .direction-for-child-3-for-footer > form {
+  display: flex;
+  border: 2px solid #fff;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding: 5px;
+}
+footer > .parent-footer > .child-3-for-footer > .direction-for-child-3-for-footer > form > input[type=email] {
+  background: none;
+  border: none;
+  width: 75%;
+  direction: rtl;
+}
+footer > .parent-footer > .child-3-for-footer > .direction-for-child-3-for-footer > form > input[type=submit] {
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.navbar {
+  width: 100%;
+  background-color: rgb(12, 53, 7);
+  padding: 10px;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  position: fixed;
+  bottom: 0;
+  z-index: 9999;
+}
+.navbar > .menu2 {
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+}
+.navbar > .menu2 > a {
+  text-decoration: none;
+  color: #fff;
+  transition: 300ms;
+  white-space: nowrap;
+}
+.navbar > .menu2 > a:hover {
+  transform: scale(1.3);
+}
+.navbar > .menu-hamberger {
+  width: 5%;
+}
+.navbar > .menu-hamberger > a {
+  width: 100%;
+  white-space: nowrap;
+}
+.navbar > .menu-hamberger > a > img {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 5px;
+  transition: 300ms;
+}
+.navbar > .menu-hamberger > a > img:hover {
+  transform: scale(1.3);
+}/*# sourceMappingURL=mine.css.map */
